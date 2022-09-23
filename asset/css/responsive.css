@@ -159,6 +159,7 @@
      }
      .footer__download {
         justify-content: center;
+        padding-right: 262px;
      }
 
      .footer__download-apps-link {
