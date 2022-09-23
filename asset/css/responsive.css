@@ -164,7 +164,7 @@
 
      .footer__download-apps-link {
         display: block;
-        padding: 4px 9px;
+        padding: -5px 9px;
      }
 
     /* .header__cart {
