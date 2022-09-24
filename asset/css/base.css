@@ -24,12 +24,13 @@ html{
 }
    /* Responsive */
 
-.grid__row {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: -4px;
-  margin-right: -4px;
-}
+   .grid__row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 146px;
+    margin-right: -329px;
+  }
+  
 
   /* Test */
 
@@ -273,14 +274,20 @@ html{
    justify-content: center;
 }
 
-.footer__download-apps-img {
-   height: 18px;
+.footer__heading {
+  font-size: 1.9rem;
+  color: var(--white-color);
+  font-weight: 800;
 }
 
-.footer__download-apps-link {
-  color: transparent;
-  text-decoration: none;
+.footer__qr {
+
 }
 
+.footer__qr-facebook {
+  width: 100px;
+  height: 100px;
+  box-shadow: 0 1px 2.125rem 0 #9966e5;
+}
 
 

@@ -64,6 +64,9 @@
     }
 }
 
+
+
+
 /* Mobile */
 @media (max-width: 739px) {
     .hide-on-mobile {
@@ -144,6 +147,7 @@
 
     .footer__content {
         padding: 0 16px;
+        
     }
 
     /* .footer__heading {
@@ -179,4 +183,12 @@
     .header__mobile-navbar-hight {
         margin-right: -33px;
     }
+    
+    .grid__row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: -4px;
+        margin-right: -4px;
+    }
+    
 }

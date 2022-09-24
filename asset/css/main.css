@@ -1382,6 +1382,7 @@ border-top: 1px solid rgb(0, 0, 0, 0.05);
   /* footer */
     
   .footer {
+    /* padding-left: 467px; */
     padding-top: 16px;
     border-top: 4px solid #9966e5;
   }
